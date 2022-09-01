@@ -1,14 +1,1 @@
-Hello, this is my example file
-Hopefully I understand github by the end of the day
-Then I will move on to understanding UNIX
-I guess I should have been a computer science major
-Now I am making a new revision, we'll call this revision 1
-Now I am making a second revision, hopefully this works
-How about a third revision?
-Let's see how branching works, I should have this line in the test branch, but not in the master
-
-Now I'll try combining branches, I'll add this line to the combo_branch and then make a change in the master to see if they will merge
-
-
-What if I add a new line here? Will this merge with the combo_branch?
-
+Completely restarting this example repo so I can relearn github
